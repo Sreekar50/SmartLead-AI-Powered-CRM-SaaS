@@ -1,0 +1,12 @@
+backend/springboot-app/target/
+
+frontend/react-app/node_modules/
+frontend/react-app/build/
+
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+.DS_Store
+.env
+*.log
