@@ -335,11 +335,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/smartlead-crm/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/smartlead-crm/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/smartlead-crm/discussions)
 
 ## 🏆 Acknowledgments
 
@@ -351,6 +346,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Sreekar**
 
 > This project demonstrates production-ready development practices including microservices architecture, cloud-native deployment, AI integration, and modern DevOps practices.
