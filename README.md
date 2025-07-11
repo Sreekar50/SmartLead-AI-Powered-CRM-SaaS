@@ -69,7 +69,7 @@ SmartLead is a comprehensive CRM platform that helps businesses manage their sal
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smartlead-crm.git
+   git clone https://github.com/Sreekar50/smartlead-crm.git
    cd smartlead-crm
    ```
 
