@@ -16,6 +16,10 @@ SmartLead is a comprehensive CRM platform that helps businesses manage their sal
 - ☁️ **Cloud-Native**: AWS deployment with Kubernetes orchestration
 - 🔄 **CI/CD Pipeline**: Automated testing and deployment
 
+### Data Flow Diagram
+![Alt text](images/data_flow.jpg)
+
+
 ## 🏗️ Architecture
 
 ### Tech Stack
@@ -45,8 +49,8 @@ SmartLead is a comprehensive CRM platform that helps businesses manage their sal
          │              │     Redis       │              │
          │              │   (Caching)     │              │
          │              └─────────────────┘              │
-         │                                                │
-         ▼                                                ▼
+         │                                      _________|
+         ▼                                      ▼
 ┌─────────────────┐              ┌─────────────────┐
 │   AWS S3        │              │   OpenAI API    │
 │ (File Storage)  │              │ (AI Scoring)    │
